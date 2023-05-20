@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Object Include="D:\Desktop\Programas\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="D:\Desktop\Programas\P_1_Plantilla_.asm" />
+    <MASM Include="P_1_CharAt_.asm" />
+    <MASM Include="P_2__.asm" />
+    <MASM Include="P_3__.asm" />
+    <MASM Include="P_4__.asm" />
+    <MASM Include="P_5__.asm" />
+    <MASM Include="P_6__.asm" />
+    <MASM Include="P_7__.asm" />
+    <MASM Include="P_8_Loop_.asm" />
+    <MASM Include="P_9_IntroMacro_.asm" />
+    <MASM Include="P_10_Suma2Nums_.asm" />
+    <MASM Include="P_11_readString_.asm" />
+    <MASM Include="P_12_NombresComp_.asm" />
+    <MASM Include="P_13_msgBox_.asm" />
+    <MASM Include="P_14_msgBoxV2_.asm" />
+    <MASM Include="P_15_msgBoxAsk_.asm" />
+    <MASM Include="P_16_sumaConProc_.asm" />
+    <MASM Include="EJ_3_NaufragoSatisfecho_.asm" />
+    <MASM Include="EJ_4_Consultorio_.asm" />
+    <MASM Include="EJ_5_AumentoCredito_.asm" />
+    <MASM Include="P_17_PromedioM_Salones.asm" />
+    <MASM Include="EJ_6_ElCometa_.asm" />
+    <MASM Include="EJ_7_Becas_.asm" />
+    <MASM Include="U4P_5_VectorDword_.asm" />
+    <MASM Include="U4P_6_TresVectoresByte_.asm" />
+    <MASM Include="Proyecto_U3_Calculadora_.asm" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="macros.inc" />
+  </ItemGroup>
+</Project>
