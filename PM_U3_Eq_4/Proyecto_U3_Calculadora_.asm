@@ -1,22 +1,22 @@
-TITLE Proyecto de Unidad 3 ProgramaciÛn Modular - Calculadora
+TITLE Proyecto de Unidad 3 Programaci√≥n Modular - Calculadora
 
-;DESCRPICI”N 
+;DESCRPICI√ìN 
 ;Objetivo: Realizar una Calculadora que permita al usuario hacer operaciones aritmeticas basicas
 ;
 ; Autore(s):
 ;         Zavala Loredo Jose Andres
-;		  Moreno Galicia Brandon Antonio
-;         Galarza Mora Alejandro Matias
-;         Escamilla Gonzalez Cynthia Vanessa
+;	
+;         Moreno Galicia Brandon Antonio
+;         
 
 ; Semestre: 8vo Semestre ISC 
-;FIN DESCRPICI”N
+;FIN DESCRPICI√ìN
 
 INCLUDE Irvine32.inc  
 INCLUDE macros.inc
 
 .data
-; ¡rea de DeclaraciÛn de Variables
+; √Årea de Declaraci√≥n de Variables
 operand1 DWORD ?
 operand2 DWORD ?
 result DWORD ?
@@ -26,7 +26,7 @@ operation BYTE ?
 
 	mainU3P PROC
 	
-		;LÛgica del Programa
+		;L√≥gica del Programa
 
     jmp menu
 
